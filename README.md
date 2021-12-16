@@ -1,7 +1,7 @@
 # **Russian** language processing via Spark(**NLP**) 🔥
 
 
-[![Go to colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VirtualRoyalty/spark-nlp-project/blob/main/bigdata-project.ipynb)
+[![Go to colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/VirtualRoyalty/spark-nlp-project/blob/main/research/bigdata-project.ipynb)
 
 Micro project on big data technologies via spark
 
